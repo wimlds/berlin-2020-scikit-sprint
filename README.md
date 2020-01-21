@@ -11,12 +11,12 @@
 * [wimlds gitter](https://gitter.im/scikit-learn/wimlds)
 
 ### Pre-sprint 21-Jan-2020
-Technical preperation of your computers with support available on-site
+19-21 Technical preperation of your computers with support available on-site, thanks to our host Diconium!
 
 ## Agenda for 25-Jan-2020
 - 9 am - 9:30 am: Introduction Arrive early for technical support
 - 9:30 am - 12 pm: Sprint
-- 12 pm - 1 pm: Lunch details will be available shortly
+- 12 pm - 1 pm: Lunch is sponsored by our hosts Comtravo Tech!
 - 1 pm - 6 pm: Sprint
 
 ## Post-sprint
