@@ -50,6 +50,9 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 ### Helpers
 * Mor Sondak
 * CJ Jenkins
+* Nataliia Kondrashova
+* Rachel Jordan 
+* Joey Faulkner
 
 ---
 
@@ -130,7 +133,8 @@ Please take photos and tweet about the event.
 
 ### Groups
 
-- @comtravo_travel
+- @comtravo_tech
+- @diconium
 - @WiMLDS_Berlin
 - @OReillyMedia
 - @wimlds
