@@ -20,7 +20,7 @@
 - 1 pm - 6 pm: Sprint
 
 ## Post-sprint
-* Post-event feedback survey (coming soon)
+* Post-event feedback survey: https://forms.gle/acvpavnHs2xHGE9n8
 
 ----
 ## Code of Conduct
